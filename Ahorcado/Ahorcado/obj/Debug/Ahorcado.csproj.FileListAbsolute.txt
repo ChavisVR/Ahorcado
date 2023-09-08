@@ -1,0 +1,10 @@
+C:\Users\Chavis\OneDrive\Escritorio\UDEM\Copilacion\Ahorcado\Ahorcado\bin\Debug\Ahorcado.exe.config
+C:\Users\Chavis\OneDrive\Escritorio\UDEM\Copilacion\Ahorcado\Ahorcado\bin\Debug\Ahorcado.exe
+C:\Users\Chavis\OneDrive\Escritorio\UDEM\Copilacion\Ahorcado\Ahorcado\bin\Debug\Ahorcado.pdb
+C:\Users\Chavis\OneDrive\Escritorio\UDEM\Copilacion\Ahorcado\Ahorcado\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Chavis\OneDrive\Escritorio\UDEM\Copilacion\Ahorcado\Ahorcado\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Chavis\OneDrive\Escritorio\UDEM\Copilacion\Ahorcado\Ahorcado\obj\Debug\Ahorcado.csproj.AssemblyReference.cache
+C:\Users\Chavis\OneDrive\Escritorio\UDEM\Copilacion\Ahorcado\Ahorcado\obj\Debug\Ahorcado.csproj.CoreCompileInputs.cache
+C:\Users\Chavis\OneDrive\Escritorio\UDEM\Copilacion\Ahorcado\Ahorcado\obj\Debug\Ahorcado.csproj.CopyComplete
+C:\Users\Chavis\OneDrive\Escritorio\UDEM\Copilacion\Ahorcado\Ahorcado\obj\Debug\Ahorcado.exe
+C:\Users\Chavis\OneDrive\Escritorio\UDEM\Copilacion\Ahorcado\Ahorcado\obj\Debug\Ahorcado.pdb
